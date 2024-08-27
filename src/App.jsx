@@ -1,11 +1,11 @@
 import Hero from './Hero'
-import Project from './Project'
+import Projects from './Projects'
 
 const App = () => {
   return (
     <main>
       <Hero />
-      <Project />
+      <Projects />
     </main>
   )
 }
